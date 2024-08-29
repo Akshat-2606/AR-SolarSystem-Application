@@ -84,9 +84,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, feedback, or collaboration opportunities, please contact:
 
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Name:** Akshat Kumar
+- **Email:** akshatk21@iitk.ac.in
+- **LinkedIn:** akshat-kumar-54b35a230
 
 ---
 
