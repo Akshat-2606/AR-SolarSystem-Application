@@ -1,6 +1,3 @@
-Here’s a sample README file for your Solar System AR application on GitHub:
-
----
 
 # Solar System Augmented Reality Application
 
